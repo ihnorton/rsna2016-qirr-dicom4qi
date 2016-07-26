@@ -2,4 +2,4 @@
 
 ** TBD **
 
-This is where results will be summarized.
+This is where results will be summarized, for all platforms.
