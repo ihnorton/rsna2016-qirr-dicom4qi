@@ -23,7 +23,7 @@ The write task involves generation of tractography streamlines from the provided
      * do you support any optional summary statistics associated with a track set? - **No**
      * do you write any other optional information to the TR file? \(e.g. acquisition, model, attribute, algorithm identification etc.\) - **No**
 <br><br>
-2. **Read task** Screenshots of trackset results for each platform, loaded with 3D Slicer.
+2. **Read task** Screenshots of trackset results for each platform, loaded with 3D Slicer..
    
    * 
 3. **Write tasks**
