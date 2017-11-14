@@ -28,7 +28,7 @@ The write task involves generation of tractography streamlines from the provided
 
 <table> 
 <tr>
-  <td width="20%">dataset ID</td>
+  <td width="20%"></td>
   <td>3D Slicer</td>
   <td>BrainLab</td>
 </tr>
