@@ -63,7 +63,7 @@ The write task involves generation of tractography streamlines from the provided
   <td>dataset_3</td>
 
   <td>
-  <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset3_screenshot.png" width="200"> 
+  <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset3_screenshot-1.png" width="200"> 
    </td>
    
    <td>
