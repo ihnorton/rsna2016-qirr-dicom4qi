@@ -25,7 +25,8 @@ The write task involves generation of tractography streamlines from the provided
 <br><br>
 2. **Read task** Screenshots of trackset results for each platform, loaded with 3D Slicer..
    
-   * 
+   * <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset_1_screenshot.png" width="100">
+   
 3. **Write tasks**
 
    * Datasets are available in the "3DSlicer_TR" folder of the [results dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
