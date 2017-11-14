@@ -28,7 +28,8 @@ The write task involves generation of tractography streamlines from the provided
 
 <table> 
 <tr>
-  <td width="20%"></td>
+  <td width="20%"><!-- placeholder -->
+</td>
   <td>3D Slicer</td>
   <td>BrainLab</td>
 </tr>
@@ -37,8 +38,8 @@ The write task involves generation of tractography streamlines from the provided
 <!-- dataset_1 -->
 <tr>
   <td></td>
-  <td bgcolor="red"><i>3DSlicer_dataset_1_SiemensVerio_dwi6dirmosaicoff-v2.dcm</i></td>
-  <td bgcolor="red"><i>TrackSet_DataSet1.dcm</i></td>
+  <td><i>3DSlicer_dataset_1_SiemensVerio_dwi6dirmosaicoff-v2.dcm</i></td>
+  <td><i>TrackSet_DataSet1.dcm</i></td>
 </tr>
 
 <tr>
