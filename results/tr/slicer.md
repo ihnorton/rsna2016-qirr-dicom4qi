@@ -62,11 +62,11 @@ The write task involves generation of tractography streamlines from the provided
   <td>dataset_2</td>
 
    <td>
-   <!-- Slicer placeholder -->
+   
    </td>
    
    <td>
-   <!-- BrainLab placeholder -->
+   n/a
    </td>
 </tr>
 
@@ -88,10 +88,7 @@ The write task involves generation of tractography streamlines from the provided
    <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset3_screenshot-1.png" width="200">
    <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset3_screenshot-2.png" width="200">
    </td>
-   <td>
-<img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset3_screenshot-1.png" width="200">
-<img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset3_screenshot-2.png" width="200">
-</td>
+
 </tr>
 </table>
 
