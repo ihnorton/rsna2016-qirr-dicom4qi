@@ -53,6 +53,12 @@ The write task involves generation of tractography streamlines from the provided
 </tr>
 
 <tr>
+  <td></td>
+  <td bgcolor="red"><i><!--placeholder --></i></td>
+  <td bgcolor="red"><i><!--placeholder --></i></td>
+</tr>
+
+<tr>
   <td>dataset_2</td>
 
    <td>
@@ -62,6 +68,13 @@ The write task involves generation of tractography streamlines from the provided
    <td>
    <!-- BrainLab placeholder -->
    </td>
+</tr>
+
+<!-- dataset_3 -->
+<tr>
+  <td></td>
+  <td bgcolor="red"><i><!--placeholder --></i></td>
+  <td bgcolor="red"><i>TrackSet_DataSet3.dcm</i></td>
 </tr>
 
 <tr>
