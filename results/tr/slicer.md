@@ -24,8 +24,30 @@ The write task involves generation of tractography streamlines from the provided
      * do you write any other optional information to the TR file? \(e.g. acquisition, model, attribute, algorithm identification etc.\) - **No**
 <br><br>
 2. **Read task** Screenshots of trackset results for each platform, loaded with 3D Slicer..
-   
-   * <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset_1_screenshot.png" width="400">
+
+<table>
+<tr>
+<td width="20%">dataset ID</td>
+<td>3D Slicer</td>
+<td>BrainLab</td>
+</tr>
+
+<tr>
+</td>
+  <td>
+    <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset_1_screenshot.png" width="300">
+     
+   </td>
+   <td>
+   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset_1_screenshot-1.png" width="300">
+   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset_1_screenshot-2.png" width="300">
+   </td>
+
+</tr>
+</table>
+
+  
+   * 
    
 3. **Write tasks**
 
