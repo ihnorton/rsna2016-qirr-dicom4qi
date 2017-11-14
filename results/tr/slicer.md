@@ -73,7 +73,7 @@ The write task involves generation of tractography streamlines from the provided
 <!-- dataset_3 -->
 <tr>
   <td></td>
-  <td bgcolor="red"><i><!--placeholder --></i></td>
+  <td bgcolor="red"><i>dataset_3_GeSignaHDx.dcm</i></td>
   <td bgcolor="red"><i>TrackSet_DataSet3.dcm</i></td>
 </tr>
 
