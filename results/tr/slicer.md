@@ -50,8 +50,8 @@ The write task involves generation of tractography streamlines from the provided
 <tr>
   <td>dataset_2</td>
 
-  <td>
-  <!-- placeholder -->
+   <td>
+   <!-- placeholder -->
    </td>
    
    <td>
