@@ -76,7 +76,7 @@ The write task involves generation of tractography streamlines from the provided
    
 3. **Write tasks**
 
-   * Datasets are available in the "3DSlicer_TR" folder of the [results dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
+   * Datasets are available in the "3DSlicer_TR" folder of the [Results Dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
 
 
 
