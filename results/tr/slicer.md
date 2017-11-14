@@ -35,8 +35,8 @@ The write task involves generation of tractography streamlines from the provided
 
 <tr>
   <td></td>
-  <td bgcolor="gray">(`3DSlicer_dataset_1_SiemensVerio_dwi6dirmosaicoff-v2.dcm`)</td>
-  <td bgcolor="gray">(`TrackSet_DataSet1.dcm`)</td>
+  <td bgcolor="red">`3DSlicer_dataset_1_SiemensVerio_dwi6dirmosaicoff-v2.dcm`</td>
+  <td bgcolor="red">`TrackSet_DataSet1.dcm`</td>
 </tr>
 
 <tr>
