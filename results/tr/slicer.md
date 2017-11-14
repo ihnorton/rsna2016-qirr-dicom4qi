@@ -54,8 +54,8 @@ The write task involves generation of tractography streamlines from the provided
 
 <tr>
   <td></td>
-  <td bgcolor="red"><i><!--placeholder --></i></td>
-  <td bgcolor="red"><i><!--placeholder --></i></td>
+  <td bgcolor="red"><i>3DSlicer_dataset_2_SiemensTrio.dcm</i></td>
+  <td bgcolor="red"><i>N/A</i></td>
 </tr>
 
 <tr>
@@ -66,7 +66,6 @@ The write task involves generation of tractography streamlines from the provided
    </td>
    
    <td>
-   n/a
    </td>
 </tr>
 
