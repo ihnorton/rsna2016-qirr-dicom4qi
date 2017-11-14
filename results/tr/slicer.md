@@ -25,7 +25,8 @@ The write task involves generation of tractography streamlines from the provided
 <br><br>
 2. **Read task** Screenshots of trackset results for each platform, loaded with 3D Slicer..
 
-<table>
+<!-- Begin table -->
+<table> 
 <tr>
 <td width="20%">dataset ID</td>
 <td>3D Slicer</td>
@@ -45,9 +46,7 @@ The write task involves generation of tractography streamlines from the provided
 
 </tr>
 </table>
-
-  
-   * 
+<!-- End HTML table -->
    
 3. **Write tasks**
 
