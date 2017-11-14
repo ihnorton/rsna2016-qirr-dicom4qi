@@ -37,13 +37,13 @@ The write task involves generation of tractography streamlines from the provided
   <td><!-- placeholder --></td>
 
   <td>
-    <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset_1_screenshot.png" width="300">
+    <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset1_screenshot.png" width="300">
      
    </td>
    
    <td>
-   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset_1_screenshot-1.png" width="300">
-   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset_1_screenshot-2.png" width="300">
+   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset1_screenshot-1.png" width="300">
+   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset1_screenshot-2.png" width="300">
    </td>
 
 </tr>
