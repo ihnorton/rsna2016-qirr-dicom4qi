@@ -29,8 +29,8 @@ The write task involves generation of tractography streamlines from the provided
 <table> 
 <tr>
   <td width="20%">dataset ID</td>
-  <td>3D Slicer (*3DSlicer_dataset_1_SiemensVerio_dwi6dirmosaicoff-v2.dcm*)</td>
-  <td>BrainLab (*TrackSet_DataSet1.dcm*)</td>
+  <td>3D Slicer ( *3DSlicer_dataset_1_SiemensVerio_dwi6dirmosaicoff-v2.dcm* )</td>
+  <td>BrainLab ( *TrackSet_DataSet1.dcm* )</td>
 </tr>
 
 <tr>
