@@ -34,7 +34,7 @@ The write task involves generation of tractography streamlines from the provided
 </tr>
 
 <tr>
-  <td><!-- placeholder --></td>
+  <td>dataset_1</td>
 
   <td>
     <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset1_screenshot.png" width="300">
@@ -45,8 +45,36 @@ The write task involves generation of tractography streamlines from the provided
    <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset1_screenshot-1.png" width="300">
    <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset1_screenshot-2.png" width="300">
    </td>
-
 </tr>
+
+<tr>
+  <td>dataset_2</td>
+
+  <td>
+  <!-- placeholder -->
+   </td>
+   
+   <td>
+   <!-- placeholder -->
+   </td>
+</tr>
+
+<tr>
+  <td>dataset_3</td>
+
+  <td>
+    <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset1_screenshot.png" width="300">
+     
+   </td>
+   
+   <td>
+   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset1_screenshot-1.png" width="300">
+   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset1_screenshot-2.png" width="300">
+   </td>
+</tr>
+
+
+
 </table>
 
    
