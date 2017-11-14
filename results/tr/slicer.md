@@ -33,6 +33,8 @@ The write task involves generation of tractography streamlines from the provided
   <td>BrainLab</td>
 </tr>
 
+
+<!-- dataset_1 -->
 <tr>
   <td></td>
   <td bgcolor="red"><i>3DSlicer_dataset_1_SiemensVerio_dwi6dirmosaicoff-v2.dcm</i></td>
@@ -52,10 +54,12 @@ The write task involves generation of tractography streamlines from the provided
    </td>
 </tr>
 
+
+<!-- dataset_2 -->
 <tr>
   <td></td>
-  <td bgcolor="red"><i>3DSlicer_dataset_2_SiemensTrio.dcm</i></td>
-  <td bgcolor="red"><i>N/A</i></td>
+  <td><i>3DSlicer_dataset_2_SiemensTrio.dcm</i></td>
+  <td><i>N/A</i></td>
 </tr>
 
 <tr>
@@ -69,11 +73,12 @@ The write task involves generation of tractography streamlines from the provided
    </td>
 </tr>
 
+
 <!-- dataset_3 -->
 <tr>
   <td></td>
-  <td bgcolor="red"><i>dataset_3_GeSignaHDx.dcm</i></td>
-  <td bgcolor="red"><i>TrackSet_DataSet3.dcm</i></td>
+  <td><i>dataset_3_GeSignaHDx.dcm</i></td>
+  <td><i>TrackSet_DataSet3.dcm</i></td>
 </tr>
 
 <tr>
